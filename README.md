@@ -1,3 +1,35 @@
 - New git repo!!
 - 23.11.2025 commit
--  
+- 24.11.2025 Today is monday and i have new fucking branch "first-week" :)
+  - learned staff:
+  - 1. valmista ette git-i keskkond
+        - git config --global user.name "Martin Kilp"
+        - git config --global user.email "martin.kilp@tptlive.ee"
+        - git config --global --list (näed kas kasutaja ja email on conf. faili salvestunud)
+        - git init (tekitad lokaalselt git repo ja branch-i "main")
+  - 2. ava tekst editor ja muuda faile
+        - code . (avad vscode sihtkaustas kus asud)
+  - 3. vaata failide staatust
+        - git status (vaata milliseid faile on muudetud)
+        - git log
+  - 4. Lisa failid ettevalmistusele
+        - git add readme.txt (lisa fail ettevalmistusele)
+        - git add . ((lisa kõik failid ettevalmistusele))
+  - 5. Kinita oma muudatused koos kommentaariga
+        - git commit -m "first commit"
+        - git commit -am "second commit" (töötab juba trackitud failidega)
+  - 6. Branches/repos
+        - git push -u origin main  (salvesta branche github-i, võib tahta sisselogimist esimesel korral)
+        - git clone https://github.com/martinkilp/githomework.git (laed alla github-st terve repo)
+        - git branch (vaata millises branch-is oled)
+        - git branch -a (kuva kõik branch-id, local + remote)
+        - git branch first-week (loo uus branche ilma ümber lülitamata)
+        - git branch -b first-week (loo uus branche ja lülitu selle peale)
+        - git checkout first-week (lülitu branch-ile)
+        - git switch first-week (uuem versioon ümberlõlitamisest)
+        - git push -u origin first-week (salvesta branch first-week github-i)
+  - 7. kustutamised
+        - git branch -d first-week (turvaline branche kustutamine localhostis)
+        - git branch -D first-week (jõuga branche kustutamine localhostis)
+        - git push origin --delete first-week (kustuta branch github-is)
+        - 
