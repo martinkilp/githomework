@@ -32,4 +32,6 @@
         - git branch -d first-week (turvaline branche kustutamine localhostis)
         - git branch -D first-week (jõuga branche kustutamine localhostis)
         - git push origin --delete first-week (kustuta branch github-is)
-        - 
+         
+- 25.11.2025 Today is tuesday
+-   
