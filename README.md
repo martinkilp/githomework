@@ -34,4 +34,5 @@
         - git push origin --delete first-week (kustuta branch github-is)
          
 - 25.11.2025 Today is tuesday
--   
+- 26.11.2025 today is wednesday
+- 
