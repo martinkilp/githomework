@@ -37,4 +37,5 @@
 - 26.11.2025 today is wednesday
 - 27.11.2025 today is thursday
 - 28.11.2015 today is friday
+- 30.11.2025 today is sunday
 - 
