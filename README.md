@@ -5,4 +5,5 @@
   - git add . - lisa kõik failid.
   - git commit -m "Initial commit" - esimene commit käsk millega hakatakse faile trackima.
   - git commit -am "second commit" - teine commit kus juba faile trackitakse.
-  - 
+  - 04.12.2025 today is wednesday
+  
